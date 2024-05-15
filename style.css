@@ -1,0 +1,16 @@
+#b1{
+    display:flex;
+    height:100px;
+    width:1000px;
+    background-color:black;
+    z-index: -1;
+    align-self:flex-end;
+}  
+.ab{
+    margin:5px;
+    height:90px;
+    width:200px;
+    background-color:rgb(185, 25, 52);
+    z-index: 1;
+}
+
